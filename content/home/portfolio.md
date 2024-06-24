@@ -32,8 +32,10 @@ content:
       tag: ML
     - name: Computer Vision
       tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Computer Graphics
+      tag: CG
+    - name: Games
+      tag: game
 
 design:
   columns: '1'
