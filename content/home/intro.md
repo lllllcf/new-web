@@ -18,8 +18,11 @@ author: admin
 #  css_class: fullscreen
 ---
 
-I am currently pursuing a Master of Science in Computer Science at Brown University.
+Twenty years later, on the exact day, a Friday apparently, he was eating a large fish - but there was no diamond inside.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
+Sc.M. CS @ Brown
+
 B.S. CS @ UMich
+
 B.S ECE @ SJTU
