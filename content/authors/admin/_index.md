@@ -44,13 +44,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:chengfan_li@brown.edu' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://github.com/lllllcf
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/chengfan.li
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/chengfan-li-b46233287
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
